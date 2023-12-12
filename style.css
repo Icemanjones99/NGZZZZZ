@@ -1,8 +1,10 @@
-/* library.css */
+/* common.css */
 body {
     background-color: #1a1a1a;
     color: #ffffff;
     font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 header, nav, main, footer {
@@ -22,6 +24,7 @@ a:hover {
     text-decoration: underline;
 }
 
+/* library.css */
 /* Add specific styles for the library page */
 
 /* store.css */
